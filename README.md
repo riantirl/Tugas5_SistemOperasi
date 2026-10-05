@@ -35,9 +35,16 @@
 
 <img width="1280" height="214" alt="SOAL 9 SISTEM OP" src="https://github.com/user-attachments/assets/005cb923-5109-4376-b96c-ed40597d6901" />
 
+<img width="418" height="373" alt="tambahan 9" src="https://github.com/user-attachments/assets/b6210552-274c-4eb4-b806-613262084136" />
+
+
 10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah list perhatikan berapa link yang terjadi?
 
 <img width="1280" height="226" alt="SOAL 10 SO" src="https://github.com/user-attachments/assets/7967147e-c5a8-47cf-b161-5e758403e095" />
+
+<img width="391" height="388" alt="tambahan 10" src="https://github.com/user-attachments/assets/1a08d8ae-d3fd-4b3a-b3bf-87609d4098f1" />
+
+
 
 
 

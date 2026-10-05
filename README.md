@@ -11,5 +11,38 @@
 
 3. Buatlah file dataku yang berisi nama, nim dan alamat anda pada sub direktori januari dan copy-kan file tersebut ke sub direktori februari dan maret.
 
-<img width="1280" height="556" alt="soal 4 so" src="https://github.com/user-attachments/assets/df08eeed-8c91-4638-aeeb-2607da158f8c" />
+<img width="1280" height="556" alt="soal 3 so" src="https://github.com/user-attachments/assets/e95a2f99-632c-4224-bd92-4dbd2eea04f6" />
+
+4. Ubahlah ijin akses file dataku pada sub direktori januari sehingga group dan others dapat melakukan write.
+<img width="1280" height="160" alt="Soal 4 so" src="https://github.com/user-attachments/assets/5f341534-ce1d-4289-ab01-e1466055b186" />
+
+5. Ubahlah ijin akses file dataku pada sub direktori februari sehingga user dapat melakukan baik write, read maupun execute, tetapi group dan others hanya bisa read dan execute.
+
+<img width="1280" height="120" alt="Soal 5 so" src="https://github.com/user-attachments/assets/568601b9-563b-4e1b-bc9c-11ddfadfdeba" />
+
+6. Ubahlah ijin akses file dataku pada sub direktori maret sehingga semua dapat melakukan write, read dan execute.
+
+<img width="1280" height="123" alt="soal 6 so" src="https://github.com/user-attachments/assets/81c156b4-b872-4d23-88b7-9d51fee31adc" />
+
+7. Hapuslah direktori maret.
+<img width="1280" height="155" alt="soal 7 so" src="https://github.com/user-attachments/assets/c4919699-582a-4aba-8408-bc20935893c7" />
+
+8. Ubahlah kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan Ubahlah kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan
+
+<img width="1280" height="251" alt="soal 8 so" src="https://github.com/user-attachments/assets/9ebcc1a0-2083-435c-8336-858b2e9b0273" />
+
+9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakah nilai default-nya?
+
+<img width="1280" height="214" alt="SOAL 9 SISTEM OP" src="https://github.com/user-attachments/assets/005cb923-5109-4376-b96c-ed40597d6901" />
+
+10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah list perhatikan berapa link yang terjadi?
+
+<img width="1280" height="226" alt="SOAL 10 SO" src="https://github.com/user-attachments/assets/7967147e-c5a8-47cf-b161-5e758403e095" />
+
+
+
+
+
+
+
 
